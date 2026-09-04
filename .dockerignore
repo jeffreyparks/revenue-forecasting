@@ -1,0 +1,40 @@
+# VCS
+.git
+.gitignore
+
+# Python
+__pycache__
+**/__pycache__
+*.pyc
+*.pyo
+*.pyd
+.venv
+.python-version
+
+# Editor / OS
+.vscode
+.idea
+.DS_Store
+**/.DS_Store
+
+# Project artifacts not needed inside the API image.
+# Use leading slash to anchor to context root so api/data/ is preserved.
+/analysis/
+/app/
+/data/
+!/data/train/promo_dummies.csv
+/design/
+/notebooks/
+/sandbox/
+/main.py
+/uv.lock
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Build outputs
+build/
+dist/
+*.egg-info

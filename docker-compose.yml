@@ -1,0 +1,32 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: revenue-forecasting-api:dev
+    container_name: forecasting-api
+    ports:
+      - "8000:8000"
+    environment:
+      PORT: "8000"
+    # Live-reload for local dev: mount source over the baked-in copies.
+    # Comment out the volumes block to test the image exactly as it would
+    # run in ECS/Fargate.
+    volumes:
+      - ./api:/app/api
+      - ./functions:/app/functions
+      - ./data/train/promo_dummies.csv:/app/api/data/variables/promo_dummies.csv
+    command: >
+      sh -c "uvicorn api.main:app
+        --host 0.0.0.0
+        --port 8000
+        --reload
+        --reload-dir /app/api
+        --reload-dir /app/functions"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://127.0.0.1:8000/health',timeout=3).status==200 else 1)"]
+      interval: 30s
+      timeout: 5s
+      start_period: 30s
+      retries: 3
+    restart: unless-stopped

@@ -1,0 +1,10 @@
+# Pinned to match versions in pyproject.toml.
+# Slim runtime deps for the FastAPI forecasting service only.
+fastapi[standard]>=0.136.1
+uvicorn[standard]>=0.30.0
+pandas>=2.3.3
+numpy>=2.4.2
+scikit-learn>=1.8.0
+scipy>=1.17.0
+statsmodels>=0.14.6
+joblib>=1.5.3
