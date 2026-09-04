@@ -77,5 +77,5 @@ Review backtest scores and prediction accuracy across rolling time windows.
 - Keep `main` branch production-ready
 - Create feature branches for development (e.g., `feature/adaptive-k-selection`)
 - Submit pull requests for review before merging
-- **Data Policy:** Do not commit actual data files to the repository. Only sample datasets (files ending in `_sample.csv` or `*_sample.*`) should be committed.
+- **Data Policy:** Do not commit actual data files to the repository. Only sample datasets (files ending in `_sample.csv` or `*_sample.*`) will be committed.
 
