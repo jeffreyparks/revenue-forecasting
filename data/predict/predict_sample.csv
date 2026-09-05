@@ -1,0 +1,176 @@
+weekstart,brand,model,spend
+8/30/26,brand us,Search | Conversion | Brand,9372.662678
+9/6/26,brand us,Search | Conversion | Brand,9487.061001
+9/13/26,brand us,Search | Conversion | Brand,20469.3001
+9/20/26,brand us,Search | Conversion | Brand,25658.82406
+9/27/26,brand us,Search | Conversion | Brand,11011.82216
+8/30/26,brand us,Search | Conversion | Non Brand,7615.324304
+9/6/26,brand us,Search | Conversion | Non Brand,7708.27338
+9/13/26,brand us,Search | Conversion | Non Brand,16631.38468
+9/20/26,brand us,Search | Conversion | Non Brand,20847.89277
+9/27/26,brand us,Search | Conversion | Non Brand,6197.194861
+8/30/26,brand us,Search | Conversion | PMAX,127498.0535
+9/6/26,brand us,Search | Conversion | PMAX,129054.235
+9/13/26,brand us,Search | Conversion | PMAX,308447.363
+9/20/26,brand us,Search | Conversion | PMAX,369041.5081
+9/27/26,brand us,Search | Conversion | PMAX,194208.1004
+8/30/26,brand us,Search | Conversion | RSC,0
+9/6/26,brand us,Search | Conversion | RSC,0
+9/13/26,brand us,Search | Conversion | RSC,0
+9/20/26,brand us,Search | Conversion | RSC,0
+9/27/26,brand us,Search | Conversion | RSC,0
+8/30/26,brand us,Social | Awareness | AWE Social Meta,70448.26781
+9/6/26,brand us,Social | Awareness | AWE Social Meta,72437.67285
+9/13/26,brand us,Social | Awareness | AWE Social Meta,177253.3676
+9/20/26,brand us,Social | Awareness | AWE Social Meta,194197.5205
+9/27/26,brand us,Social | Awareness | AWE Social Meta,48218.19563
+8/30/26,brand us,Social | Awareness | AWE Social Pinterest,53516.99665
+9/6/26,brand us,Social | Awareness | AWE Social Pinterest,55028.27559
+9/13/26,brand us,Social | Awareness | AWE Social Pinterest,134652.9613
+9/20/26,brand us,Social | Awareness | AWE Social Pinterest,147524.8204
+9/27/26,brand us,Social | Awareness | AWE Social Pinterest,36629.61623
+8/30/26,brand us,Social | Awareness | AWE Social TikTok,16900.10554
+9/6/26,brand us,Social | Awareness | AWE Social TikTok,17377.35155
+9/13/26,brand us,Social | Awareness | AWE Social TikTok,42521.99113
+9/20/26,brand us,Social | Awareness | AWE Social TikTok,46586.78906
+9/27/26,brand us,Social | Awareness | AWE Social TikTok,11567.24814
+8/30/26,brand us,Social | Consideration | CON Social Meta,52707.21956
+9/6/26,brand us,Social | Consideration | CON Social Meta,54195.63126
+9/13/26,brand us,Social | Consideration | CON Social Meta,121493.7991
+9/20/26,brand us,Social | Consideration | CON Social Meta,145395.9161
+9/27/26,brand us,Social | Consideration | CON Social Meta,48757.97345
+8/30/26,brand us,Social | Consideration | CON Social Pinterest,40057.48764
+9/6/26,brand us,Social | Consideration | CON Social Pinterest,41188.68055
+9/13/26,brand us,Social | Consideration | CON Social Pinterest,92335.28907
+9/20/26,brand us,Social | Consideration | CON Social Pinterest,110500.8984
+9/27/26,brand us,Social | Consideration | CON Social Pinterest,37056.06053
+8/30/26,brand us,Social | Consideration | CON Social TikTok,11445.6128
+9/6/26,brand us,Social | Consideration | CON Social TikTok,11768.82819
+9/13/26,brand us,Social | Consideration | CON Social TikTok,26382.93186
+9/20/26,brand us,Social | Consideration | CON Social TikTok,31573.38546
+9/27/26,brand us,Social | Consideration | CON Social TikTok,10588.01602
+8/30/26,brand us,Social | Conversion | CVR ASC Omni,4580.713071
+9/6/26,brand us,Social | Conversion | CVR ASC Omni,4710.071191
+9/13/26,brand us,Social | Conversion | CVR ASC Omni,21260.48332
+9/20/26,brand us,Social | Conversion | CVR ASC Omni,22918.41885
+9/27/26,brand us,Social | Conversion | CVR ASC Omni,4139.475687
+8/30/26,brand us,Social | Conversion | CVR ASC Value,10283.76093
+9/6/26,brand us,Social | Conversion | CVR ASC Value,10574.1716
+9/13/26,brand us,Social | Conversion | CVR ASC Value,47730.06391
+9/20/26,brand us,Social | Conversion | CVR ASC Value,51452.15092
+9/27/26,brand us,Social | Conversion | CVR ASC Value,9293.17721
+8/30/26,brand us,Social | Conversion | CVR ASC Volume,9062.105532
+9/6/26,brand us,Social | Conversion | CVR ASC Volume,9318.016983
+9/13/26,brand us,Social | Conversion | CVR ASC Volume,42059.98946
+9/20/26,brand us,Social | Conversion | CVR ASC Volume,45339.91259
+9/27/26,brand us,Social | Conversion | CVR ASC Volume,8189.197824
+8/30/26,brand ca,Search | Conversion | Brand,1237.131177
+9/6/26,brand ca,Search | Conversion | Brand,1115.794052
+9/13/26,brand ca,Search | Conversion | Brand,3500.091618
+9/20/26,brand ca,Search | Conversion | Brand,3626.042322
+9/27/26,brand ca,Search | Conversion | Brand,2054.772694
+8/30/26,brand ca,Search | Conversion | PMAX,6332.029744
+9/6/26,brand ca,Search | Conversion | PMAX,5710.987856
+9/13/26,brand ca,Search | Conversion | PMAX,17914.57902
+9/20/26,brand ca,Search | Conversion | PMAX,18559.23467
+9/27/26,brand ca,Search | Conversion | PMAX,10516.97836
+8/30/26,brand ca,Search | Conversion | RSC,9498.044616
+9/6/26,brand ca,Search | Conversion | RSC,8566.481784
+9/13/26,brand ca,Search | Conversion | RSC,26871.86854
+9/20/26,brand ca,Search | Conversion | RSC,27838.85201
+9/27/26,brand ca,Search | Conversion | RSC,15775.46754
+8/30/26,brand ca,Social | Awareness | AWE Social Meta,18015
+9/6/26,brand ca,Social | Awareness | AWE Social Meta,18015
+9/13/26,brand ca,Social | Awareness | AWE Social Meta,18015
+9/20/26,brand ca,Social | Awareness | AWE Social Meta,18015
+9/27/26,brand ca,Social | Awareness | AWE Social Meta,18015
+8/30/26,brand ca,Social | Awareness | AWE Social Pinterest,1448.6
+9/6/26,brand ca,Social | Awareness | AWE Social Pinterest,1448.6
+9/13/26,brand ca,Social | Awareness | AWE Social Pinterest,1448.6
+9/20/26,brand ca,Social | Awareness | AWE Social Pinterest,1448.6
+9/27/26,brand ca,Social | Awareness | AWE Social Pinterest,1448.6
+8/30/26,brand ca,Social | Consideration | CON Social Meta,1713.2
+9/6/26,brand ca,Social | Consideration | CON Social Meta,1713.2
+9/13/26,brand ca,Social | Consideration | CON Social Meta,1713.2
+9/20/26,brand ca,Social | Consideration | CON Social Meta,1713.2
+9/27/26,brand ca,Social | Consideration | CON Social Meta,1713.2
+8/30/26,brand ca,Social | Consideration | CON Social Pinterest,1649.240756
+9/6/26,brand ca,Social | Consideration | CON Social Pinterest,1649.240756
+9/13/26,brand ca,Social | Consideration | CON Social Pinterest,1649.240756
+9/20/26,brand ca,Social | Consideration | CON Social Pinterest,1649.240756
+9/27/26,brand ca,Social | Consideration | CON Social Pinterest,1649.240756
+8/30/26,brand ca,Social | Conversion | CVR ASC Value,4214.386983
+9/6/26,brand ca,Social | Conversion | CVR ASC Value,3801.042297
+9/13/26,brand ca,Social | Conversion | CVR ASC Value,11923.34397
+9/20/26,brand ca,Social | Conversion | CVR ASC Value,12352.40518
+9/27/26,brand ca,Social | Conversion | CVR ASC Value,6999.748658
+8/30/26,brand ca,Social | Conversion | CVR ASC Volume,2694.444137
+9/6/26,brand ca,Social | Conversion | CVR ASC Volume,2430.174583
+9/13/26,brand ca,Social | Conversion | CVR ASC Volume,7623.121553
+9/20/26,brand ca,Social | Conversion | CVR ASC Volume,7897.439378
+9/27/26,brand ca,Social | Conversion | CVR ASC Volume,4475.249142
+8/30/26,brand outlet,Search | Conversion | Brand,6560.851801
+9/6/26,brand outlet,Search | Conversion | Brand,5837.318631
+9/13/26,brand outlet,Search | Conversion | Brand,6199.085297
+9/20/26,brand outlet,Search | Conversion | Brand,6809.182863
+9/27/26,brand outlet,Search | Conversion | Brand,5248.681408
+8/30/26,brand outlet,Search | Conversion | Non Brand,82500.12669
+9/6/26,brand outlet,Search | Conversion | Non Brand,51572.71102
+9/13/26,brand outlet,Search | Conversion | Non Brand,54768.91957
+9/20/26,brand outlet,Search | Conversion | Non Brand,85624.13166
+9/27/26,brand outlet,Search | Conversion | Non Brand,46372.10106
+8/30/26,brand outlet,Search | Conversion | PMAX,127377.674
+9/6/26,brand outlet,Search | Conversion | PMAX,105689.8606
+9/13/26,brand outlet,Search | Conversion | PMAX,112239.9688
+9/20/26,brand outlet,Search | Conversion | PMAX,132198.7294
+9/27/26,brand outlet,Search | Conversion | PMAX,95032.05864
+8/30/26,brand outlet,Search | Conversion | RSC,236558.5375
+9/6/26,brand outlet,Search | Conversion | RSC,196281.1697
+9/13/26,brand outlet,Search | Conversion | RSC,208445.6563
+9/20/26,brand outlet,Search | Conversion | RSC,245511.9261
+9/27/26,brand outlet,Search | Conversion | RSC,176488.1089
+8/30/26,brand outlet,Social | Awareness | AWE Social Meta,1284.13214
+9/6/26,brand outlet,Social | Awareness | AWE Social Meta,1142.511904
+9/13/26,brand outlet,Social | Awareness | AWE Social Meta,1213.322022
+9/20/26,brand outlet,Social | Awareness | AWE Social Meta,1332.732221
+9/27/26,brand outlet,Social | Awareness | AWE Social Meta,1027.301712
+8/30/26,brand outlet,Social | Awareness | AWE Social Pinterest,0
+9/6/26,brand outlet,Social | Awareness | AWE Social Pinterest,0
+9/13/26,brand outlet,Social | Awareness | AWE Social Pinterest,0
+9/20/26,brand outlet,Social | Awareness | AWE Social Pinterest,0
+9/27/26,brand outlet,Social | Awareness | AWE Social Pinterest,0
+8/30/26,brand outlet,Social | Awareness | AWE Social TikTok,0
+9/6/26,brand outlet,Social | Awareness | AWE Social TikTok,0
+9/13/26,brand outlet,Social | Awareness | AWE Social TikTok,0
+9/20/26,brand outlet,Social | Awareness | AWE Social TikTok,0
+9/27/26,brand outlet,Social | Awareness | AWE Social TikTok,0
+8/30/26,brand outlet,Social | Consideration | CON Social Meta,114892.21
+9/6/26,brand outlet,Social | Consideration | CON Social Meta,102221.85
+9/13/26,brand outlet,Social | Consideration | CON Social Meta,108557.03
+9/20/26,brand outlet,Social | Consideration | CON Social Meta,119240.93
+9/27/26,brand outlet,Social | Consideration | CON Social Meta,91913.77
+8/30/26,brand outlet,Social | Consideration | CON Social Pinterest,0
+9/6/26,brand outlet,Social | Consideration | CON Social Pinterest,0
+9/13/26,brand outlet,Social | Consideration | CON Social Pinterest,0
+9/20/26,brand outlet,Social | Consideration | CON Social Pinterest,0
+9/27/26,brand outlet,Social | Consideration | CON Social Pinterest,0
+8/30/26,brand outlet,Social | Consideration | CON Social TikTok,0
+9/6/26,brand outlet,Social | Consideration | CON Social TikTok,0
+9/13/26,brand outlet,Social | Consideration | CON Social TikTok,0
+9/20/26,brand outlet,Social | Consideration | CON Social TikTok,0
+9/27/26,brand outlet,Social | Consideration | CON Social TikTok,0
+8/30/26,brand outlet,Social | Conversion | CVR ASC Omni,47358.40567
+9/6/26,brand outlet,Social | Conversion | CVR ASC Omni,41947.76182
+9/13/26,brand outlet,Social | Conversion | CVR ASC Omni,44912.70738
+9/20/26,brand outlet,Social | Conversion | CVR ASC Omni,50253.53647
+9/27/26,brand outlet,Social | Conversion | CVR ASC Omni,33698.71166
+8/30/26,brand outlet,Social | Conversion | CVR ASC Value,79273.85297
+9/6/26,brand outlet,Social | Conversion | CVR ASC Value,70216.90565
+9/13/26,brand outlet,Social | Conversion | CVR ASC Value,75179.9667
+9/20/26,brand outlet,Social | Conversion | CVR ASC Value,84120.05018
+9/27/26,brand outlet,Social | Conversion | CVR ASC Value,56408.71299
+8/30/26,brand outlet,Social | Conversion | CVR ASC Volume,79273.85297
+9/6/26,brand outlet,Social | Conversion | CVR ASC Volume,70216.90565
+9/13/26,brand outlet,Social | Conversion | CVR ASC Volume,75179.9667
+9/20/26,brand outlet,Social | Conversion | CVR ASC Volume,84120.05018
+9/27/26,brand outlet,Social | Conversion | CVR ASC Volume,56408.71299

@@ -1,12 +1,12 @@
 # Data & other ignored artifacts
 # /data contains input & output data - never commit the data itself
-# only *_.sample.* files that document each dataset's schema
+# only *_sample.* files that document each dataset's schema
 /analysis
 /sandbox
 
 /data/**
 !/data/**/
-!/data/**/*._sample.*
+!/data/**/*_sample.*
 
 # Agents
 .agents/
